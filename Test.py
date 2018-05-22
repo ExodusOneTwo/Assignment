@@ -475,7 +475,7 @@ if __name__ == '__main__':
 
           if len(tradeRecordArray) == 0:
 
-            print("First You Must Record Trades\n")
+            print("First You Must Initiate BUY/SELL Trades\n")
 
           else:  
 
